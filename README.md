@@ -66,8 +66,6 @@ Here are some ideas to get you started:
 
 ### My GitHub Stats
 
-![VeronikaTkach's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeronikaTkach&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeronikaTkach&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VeronikaTkach&theme=radical)
