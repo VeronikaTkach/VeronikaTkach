@@ -68,8 +68,3 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeronikaTkach&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VeronikaTkach&theme=radical)
-
-![VeronikaTkach's Contributions](https://github-readme-activity-graph.vercel.app/graph?username=VeronikaTkach&bg_color=141321&color=ffffff&line=79fe96&point=f9f9f9&area=true&hide_border=true)
-
-
